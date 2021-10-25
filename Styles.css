@@ -1,0 +1,130 @@
+﻿body {
+    background-color: #FF9292;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.row{
+    margin-right: 0!important;
+}
+
+.bg-red {
+    background-color: #FFCCD2;
+}
+
+.included-1 {
+    background-color: #FF5C58;
+}
+
+.included-2 {
+    background-color: #D57E7E;
+}
+
+.included-3 {
+    background-color: #911F27;
+}
+
+.player{
+    width: 320px;
+    height:auto;
+}
+
+.title-item{
+    font-size: 28px
+}
+
+.sign-up {
+    border: 3px solid #3DB2FF;
+    border-radius: 8px;
+    color: blue;
+    background-color: #A2CDCD;
+}
+
+.sign-up:hover{
+    color: white;
+    background-color: #297F87;
+}
+
+.sign-up:focus{
+    box-shadow:none;
+}
+
+.sat {
+    color:white;
+    background-color: #630A10;
+}
+
+.sun {
+    color:white;
+    background-color: #911F27;
+}
+
+.option-1 {
+    height: 400px;
+    border-radius: 10px;
+    background-color: #FFD371;
+}
+
+.option-2 {
+    height: 450px;
+    border-radius: 10px;
+    background-color: #CAB8FF;
+}
+
+.op-head{
+    font-size:20px;
+}
+
+.options{
+    line-height: 3
+}
+
+.price{
+    background-color: white;
+    padding:15px 0 15px 0;
+    border-radius: 10px;
+}
+
+.sing-up-now{
+    border: 2px solid white;
+    border-radius: 8px;
+    color: white;
+    padding: 10px 0 10px 0;
+}
+
+.sing-up-now:hover{
+    background-color: white;
+    color: black;
+    border-color:black;
+    cursor:pointer;
+}
+
+.profile{
+    height:300px;
+    width:300px;
+}
+
+.edu{
+    line-height: 3;
+}
+
+.heading{
+    color: white;
+    font-size:24px;
+    text-decoration:underline;
+}
+
+.about{
+    color:white;
+}
+
+#email{
+    color:orangered;
+}
+
+.table-bordered, .table-bordered td,.table-bordered th{
+    border: 5px solid white !important;
+}
+
+.navbar-toggler{
+    background-color: #911F27;
+}
